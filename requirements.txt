@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+pydantic
+
+# for password hashing and JWT things
+python-jose
+passlib[bcrypt]
+python-multipart
+
+# for mongodb
+motor
+pymongo
+
+# npm install axios react-router-dom chart.js react-chartjs-2
+# npm install -D tailwindcss postcss autoprefixer
+# npx tailwindcss init -p
